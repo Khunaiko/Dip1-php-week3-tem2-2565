@@ -1,5 +1,5 @@
 <?php
-    $x = 10;
+    $x = 20;
 
     #1.Add add Assignmeet Value
     echo "$x += 20 =",$x += 20,"<br>"; //x = x + 20 //30
